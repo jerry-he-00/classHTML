@@ -1,0 +1,19 @@
+.poem-body{
+    color: green;
+        font-family: "STKaiti";
+        text-align: center;
+        background-color: antiquewhite;
+}
+.poem-div{
+    background-color: bisque;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid blue;
+}
+.poem-p{
+    font-size: large;
+    line-height: 1;
+    text-align: center;
+}
